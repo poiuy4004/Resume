@@ -17,12 +17,12 @@ ol{
     padding-left: 56px;
     margin: auto 0px;
     font-weight: bold;
-    transition: 5s;
+    transition: 2s;
 }
 
 ol:hover{
-    height:auto;
-    transition: 5s;
+    height:100px;
+    transition: 2s;
 }
 
 a{
